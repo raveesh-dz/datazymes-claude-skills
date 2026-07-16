@@ -9,6 +9,11 @@
       "name": "doc-writing-sop",
       "source": "./plugins/doc-writing-sop",
       "description": "Writing-register standard for all generated document, deck, and app copy. Enforces the working register, bans AI tells, and requires a pre-ship checklist pass."
+    },
+    {
+      "name": "datazymes-all",
+      "source": "./plugins/datazymes-all",
+      "description": "Bundle of every DataZymes skill. Install this to get all standards at once instead of picking individual plugins."
     }
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "name": "datazymes-all",
+  "description": "Bundle of every DataZymes skill. Installs all standards at once (doc-writing-sop and any future skills). Install individual plugins instead if you only want specific skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DataZymes"
+  }
+}
