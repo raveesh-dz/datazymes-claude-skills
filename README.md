@@ -7,11 +7,9 @@ Shared Claude Code plugin marketplace for DataZymes.
 In Claude Code:
 
 ```
-/plugin marketplace add datazymes/datazymes-claude-skills
+/plugin marketplace add raveesh-dz/datazymes-claude-skills
 /plugin install doc-writing-sop
 ```
-
-Replace `datazymes/datazymes-claude-skills` with the actual GitHub `<org>/<repo>` once pushed.
 
 Skills install globally and apply across all your projects. Restart Claude Code (or start a new session) after installing.
 
