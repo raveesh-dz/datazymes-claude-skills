@@ -1,0 +1,14 @@
+{
+  "name": "datazymes-skills",
+  "owner": {
+    "name": "Raveesh R",
+    "email": "raveesh.r@datazymes.com"
+  },
+  "plugins": [
+    {
+      "name": "doc-writing-sop",
+      "source": "./plugins/doc-writing-sop",
+      "description": "Writing-register standard for all generated document, deck, and app copy. Enforces the working register, bans AI tells, and requires a pre-ship checklist pass."
+    }
+  ]
+}

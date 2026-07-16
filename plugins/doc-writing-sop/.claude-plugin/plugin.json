@@ -1,0 +1,8 @@
+{
+  "name": "doc-writing-sop",
+  "description": "Writing-register standard for all generated copy in any document, deck, slide, PPT, PDF, report, or app UI text. Enforces the working register (facts and labels, not slogans), bans AI tells (em-dashes, 'not X but Y', fragment headlines, tagline closers, adverb intensifiers), and requires an explicit pre-ship checklist pass before any copy is final.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DataZymes"
+  }
+}
